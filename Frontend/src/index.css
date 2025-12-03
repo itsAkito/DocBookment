@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.form-group {
+  @apply flex flex-col;
+}
+
+.form-input {
+  @apply w-full px-4 py-2 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:bg-gray-100;
+}
+
+.form-label {
+  @apply text-sm font-medium text-gray-700;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
