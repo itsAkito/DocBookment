@@ -425,7 +425,6 @@ For support, email support@medicalhub.com or open an issue in the repository.
 - [ ] Insurance integration
 - [ ] Multi-language support
 - [ ] Dark mode theme
-- [ ] Mobile app (React Native)
 
 ## 📚 Additional Resources
 
