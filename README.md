@@ -435,6 +435,3 @@ For support, email support@medicalhub.com or open an issue in the repository.
 - [Tailwind CSS](https://tailwindcss.com)
 
 ---
-
-**Last Updated**: 2024
-**Version**: 1.0.0
